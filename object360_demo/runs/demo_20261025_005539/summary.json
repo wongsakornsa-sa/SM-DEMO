@@ -1,0 +1,18 @@
+{
+  "views": 8,
+  "classes": [
+    "bottle",
+    "cup",
+    "chair"
+  ],
+  "source": "0",
+  "capture_phase_seconds": 36.005,
+  "estimated_manual_capture_seconds": 35.518,
+  "online_processing_seconds": 0.486,
+  "batch_processing_seconds": 0.396,
+  "online_total_seconds": 36.005,
+  "estimated_batch_total_seconds": 35.915,
+  "timing_note": "Batch total is estimated from the same manual capture duration plus batch processing.",
+  "detections_online": 7,
+  "detections_batch": 7
+}

@@ -1,0 +1,8 @@
+﻿view,mode,class,track_id,state,x1,y1,x2,y2
+3,batch,chair,1,tentative,326,525,725,716
+3,batch,chair,2,tentative,0,415,70,714
+3,batch,bottle,3,tentative,274,326,305,420
+4,batch,chair,1,confirmed,303,386,588,713
+4,batch,chair,2,confirmed,0,456,80,600
+4,batch,bottle,4,tentative,265,267,294,363
+4,batch,chair,5,tentative,790,547,1230,712

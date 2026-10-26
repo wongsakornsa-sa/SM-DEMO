@@ -1,0 +1,24 @@
+{
+  "views": 8,
+  "classes": [
+    "bottle",
+    "cup",
+    "chair"
+  ],
+  "source": "USB / virtual camera: 0 (Auto)",
+  "capture_phase_seconds": 66.243,
+  "estimated_manual_capture_seconds": 65.569,
+  "online_processing_seconds": 0.675,
+  "batch_processing_seconds": 0.477,
+  "online_total_seconds": 66.243,
+  "estimated_batch_total_seconds": 66.046,
+  "timing_note": "Batch total estimates the same capture phase plus batch processing. After retakes, online time also includes earlier attempts and is not a controlled comparison.",
+  "retakes": 2,
+  "detections_online": 9,
+  "detections_batch": 9,
+  "panorama_stitched": true,
+  "panorama_note": "Panorama stitched",
+  "panorama_detections": [],
+  "panorama_detection_error": "",
+  "summary_image": "panorama_detected.jpg"
+}

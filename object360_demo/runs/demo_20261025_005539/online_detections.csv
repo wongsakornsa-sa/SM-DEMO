@@ -1,0 +1,8 @@
+﻿view,mode,class,confidence,x1,y1,x2,y2
+3,online,chair,0.798,326,525,725,716
+3,online,chair,0.5577,0,415,70,714
+3,online,bottle,0.3993,274,326,305,420
+4,online,chair,0.8905,790,547,1230,712
+4,online,chair,0.49,303,386,588,713
+4,online,bottle,0.441,265,267,294,363
+4,online,chair,0.3894,0,456,80,600

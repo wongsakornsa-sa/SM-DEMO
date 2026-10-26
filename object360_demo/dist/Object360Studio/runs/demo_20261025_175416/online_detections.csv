@@ -1,0 +1,10 @@
+﻿view,mode,class,confidence,x1,y1,x2,y2
+1,online,cup,0.4995,305,476,390,557
+1,online,bottle,0.4378,750,223,795,420
+2,online,bottle,0.7098,763,155,814,297
+2,online,bottle,0.5251,729,126,764,286
+2,online,bottle,0.4079,809,153,846,290
+6,online,bottle,0.7784,836,543,903,715
+6,online,bottle,0.7494,574,634,628,720
+8,online,bottle,0.7075,163,405,253,659
+8,online,bottle,0.3541,149,577,198,675

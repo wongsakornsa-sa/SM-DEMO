@@ -1,0 +1,8 @@
+﻿view,mode,class,confidence,x1,y1,x2,y2
+2,batch,bottle,0.4255,519,661,597,719
+2,batch,bottle,0.3645,416,666,481,720
+3,batch,chair,0.8453,647,503,1109,715
+3,batch,chair,0.7463,67,359,424,709
+3,batch,bottle,0.4932,579,285,609,388
+3,batch,bottle,0.3776,155,331,177,383
+4,batch,chair,0.6774,883,325,1255,687

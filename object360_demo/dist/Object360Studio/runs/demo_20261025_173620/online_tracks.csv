@@ -1,0 +1,8 @@
+﻿view,mode,class,track_id,state,x1,y1,x2,y2
+2,online,bottle,1,tentative,519,661,597,719
+2,online,bottle,2,tentative,416,666,481,720
+3,online,bottle,3,tentative,579,285,609,388
+3,online,bottle,4,tentative,155,331,177,383
+3,online,chair,5,tentative,647,503,1109,715
+3,online,chair,6,tentative,67,359,424,709
+4,online,chair,7,tentative,883,325,1255,687

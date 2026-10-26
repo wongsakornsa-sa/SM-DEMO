@@ -1,0 +1,21 @@
+{
+  "views": 8,
+  "classes": [
+    "bottle",
+    "cup",
+    "chair"
+  ],
+  "source": "USB / virtual camera: 0 (DirectShow)",
+  "capture_phase_seconds": 34.11,
+  "estimated_manual_capture_seconds": 33.467,
+  "online_processing_seconds": 0.642,
+  "batch_processing_seconds": 0.422,
+  "online_total_seconds": 34.11,
+  "estimated_batch_total_seconds": 33.889,
+  "timing_note": "Batch total is estimated from the same manual capture duration plus batch processing.",
+  "detections_online": 7,
+  "detections_batch": 7,
+  "panorama_stitched": true,
+  "panorama_note": "Panorama stitched",
+  "summary_image": "panorama.jpg"
+}
